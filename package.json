@@ -1,0 +1,19 @@
+{
+  "name": "PeripheralStreamer",
+  "version": "1.0.0",
+  "description": "BLE Peripheral Device to stream All axis",
+  "main": "app.js",
+  "dependencies": {
+    "bleno": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Chapron",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "github.com/kevinchapron/PeripheralStreamer"
+  }
+}
